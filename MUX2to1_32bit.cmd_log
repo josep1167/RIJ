@@ -1,0 +1,2 @@
+vhdtdtfi -lib work MUX2to1_32bit.vhd -prj Lab6 -o MUX2to1_32bit.spl -module MUX2to1_32bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MUX2to1_32bit.spl C:/Xilinx/Lab6/MUX2to1_32bit.sym 

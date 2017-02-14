@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Control.vhd -prj Lab6 -o Control.spl -module Control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Control.spl C:/Xilinx/Lab6/Control.sym 

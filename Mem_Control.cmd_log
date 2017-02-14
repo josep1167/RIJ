@@ -1,0 +1,10 @@
+vhdtdtfi -lib work Mem_Control.vhd -prj Lab6 -o Mem_Control.spl -module Mem_Control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mem_Control.spl C:/Xilinx/Lab6/Mem_Control.sym 
+vhdtdtfi -lib work Mem_Control.vhd -prj Lab6 -o Mem_Control.spl -module Mem_Control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mem_Control.spl C:/Xilinx/Lab6/Mem_Control.sym 
+vhdtdtfi -lib work Mem_Control.vhd -prj Lab6 -o Mem_Control.spl -module Mem_Control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mem_Control.spl C:/Xilinx/Lab6/Mem_Control.sym 
+vhdtdtfi -lib work Mem_Control.vhd -prj Lab6 -o Mem_Control.spl -module Mem_Control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mem_Control.spl C:/Xilinx/Lab6/Mem_Control.sym 
+vhdtdtfi -lib work Mem_Control.vhd -prj Lab6 -o Mem_Control.spl -module Mem_Control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Mem_Control.spl C:/Xilinx/Lab6/Mem_Control.sym 

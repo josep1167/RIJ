@@ -1,0 +1,7 @@
+[Inputs]
+=Alu_out[31:0]=
+=OPCode[3:0]=
+[Outputs]
+Mux_Sel
+PC_En
+[BiDir]

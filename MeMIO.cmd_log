@@ -1,0 +1,27 @@
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl MeMIO_drc.vhf -w C:/Xilinx/Lab6/MeMIO.sch 
+xst -intstyle ise -ifn "C:/Xilinx/Lab6/MeMIO.xst" -ofn "C:/Xilinx/Lab6/MeMIO.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 MeMIO.ngc MeMIO.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o MeMIO_map.ncd MeMIO.ngd MeMIO.pcf 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl MeMIO_drc.vhf -w C:/Xilinx/Lab6/MeMIO.sch 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl MeMIO_drc.vhf -w C:/Xilinx/Lab6/MeMIO.sch 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl MeMIO_drc.vhf -w C:/Xilinx/Lab6/MeMIO.sch 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl MeMIO_drc.vhf -w C:/Xilinx/Lab6/MeMIO.sch 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 
+sch2sym -intstyle ise -family spartan3e -refsym MeMIO C:/Xilinx/Lab6/MeMIO.sch C:/Xilinx/Lab6/MeMIO.sym 

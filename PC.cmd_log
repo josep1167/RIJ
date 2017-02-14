@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Dflipflop.vhd -lib work PC.vhd -prj Lab6 -o PC.spl -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e PC.spl C:/Xilinx/Lab6/PC.sym 

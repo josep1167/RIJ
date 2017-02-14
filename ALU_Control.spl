@@ -1,0 +1,7 @@
+[Inputs]
+=Din[5:0]=
+=Cin[3:0]=
+[Outputs]
+JumpR
+=Dout[3:0]=
+[BiDir]

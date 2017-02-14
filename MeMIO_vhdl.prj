@@ -1,0 +1,6 @@
+vhdl work "C:\Xilinx\Lab6\Dflipflop.vhd"
+vhdl work "C:\Xilinx\Lab6\zero_ex.vhd"
+vhdl work "C:\Xilinx\Lab6\PC.vhd"
+vhdl work "C:\Xilinx\Lab6\MUX2to1_32bit.vhd"
+vhdl work "C:\Xilinx\Lab6\Mem_Control.vhd"
+vhdl work "C:\Xilinx\Lab6\MeMIO.vhf"
